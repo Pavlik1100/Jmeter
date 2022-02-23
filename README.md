@@ -1,6 +1,7 @@
 # Jmeter
 
 ### [HW_1-Request_with_param](https://github.com/Pavlik1100/Jmeter/tree/main/HW_1-Request_with_param)
+### [HW_2-Request_with_scripts](https://github.com/Pavlik1100/Jmeter/tree/main/HW_2-Request_with_scripts)
 #
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
